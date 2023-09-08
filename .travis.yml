@@ -2,7 +2,7 @@ language: python
 python:
   - "3.7"
 dist: bionic
-os: ubuntu
+os: mint
 services:
   - docker
 
