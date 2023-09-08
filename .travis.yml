@@ -2,7 +2,7 @@ language: python
 python:
   - "3.7"
 dist: bionic
-os: Linux Mint 19.1
+os: mint
 services:
   - docker
 
